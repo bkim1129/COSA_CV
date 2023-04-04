@@ -2,6 +2,9 @@
 
 This MATLAB code provides instructions to assess the skill level of chopstick operation using computer vision. The assessment can be used to evaluate fine hand motor skills in healthy individuals and those with neurologic disorders, such as stroke, that affect fine hand motor skills.
 
+## Sample Video Data Download
+[Click here to download sample video files from Google Drive](https://drive.google.com/drive/folders/1Fr_mPyVMsOllc9yXrQ_YJ18UNFs_qJDo?usp=sharing)
+
 ## COSA Matlab codes
 This folder contains all the codes and functions required to run the data processing.
 
