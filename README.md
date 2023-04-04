@@ -5,6 +5,26 @@ This MATLAB code provides instructions to assess the skill level of chopstick op
 ## Sample Video Data Download
 [Click here to download sample video files from Google Drive](https://drive.google.com/drive/folders/1Fr_mPyVMsOllc9yXrQ_YJ18UNFs_qJDo?usp=sharing)
 
+Time points
+1. Baseline (10 trials)
+2. Practice block 1 (5 trials)
+3. Practice block 2 (5 trials)
+4. Practice block 3 (5 trials)
+5. Practice block 4 (5 trials)
+6. Practice block 5 (5 trials)
+7. Practice block 6 (5 trials)
+8. Practice block 7 (5 trials)
+9. Practice block 8 (5 trials)
+10. Practice block 9 (5 trials)
+11. Practice block 10 (5 trials)
+12. Immediate Post-practice retention (10 trials)
+13. 24-h Delayed Post-practice retention (10 trials)
+
+File nameing:
+- HY15_Lt_base1.mp4: Participant ID was HY15, the camera location was left, the timepoint was baseline, & it was first trial of the baseline timepoint.
+- HY15_Lt_calib.mp4: This video footage is for the calibration.
+- motor task success.xlsx is for kinematic analysis. You need this file to choose the successful trials.
+
 ## COSA Matlab codes
 This folder contains all the codes and functions required to run the data processing.
 
