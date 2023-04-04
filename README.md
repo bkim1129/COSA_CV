@@ -2,6 +2,13 @@
 
 This MATLAB code provides instructions to assess the skill level of chopstick operation using computer vision. The assessment can be used to evaluate fine hand motor skills in healthy individuals and those with neurologic disorders, such as stroke, that affect fine hand motor skills.
 
+## Accuracy of the system
+We conducted experiments to evaluate the accuracy of our computer vision-based motion analysis system, and the findings were published in the Scientific Reports.
+Citation: Kim, B., Neville, C. Accuracy and feasibility of a novel fine hand motor skill assessment using computer vision object tracking. Sci Rep 13, 1813 (2023). https://doi.org/10.1038/s41598-023-29091-0
+
+[Click here to the Scientific Reports paper](https://www.nature.com/articles/s41598-023-29091-0)
+
+
 # Sample Video Data Download
 [Click here to download sample video files from Google Drive](https://drive.google.com/drive/folders/1Fr_mPyVMsOllc9yXrQ_YJ18UNFs_qJDo?usp=sharing)
 
@@ -25,6 +32,7 @@ This MATLAB code provides instructions to assess the skill level of chopstick op
 - HY15_Lt_calib.mp4: This video footage is for the calibration.
 - motor task success.xlsx is for kinematic analysis. You need this file to choose the successful trials.
 
+
 # COSA Matlab codes
 This folder contains all the codes and functions required to run the data processing.
 
@@ -45,4 +53,3 @@ This function performs triangulation to obtain 3D coordinates of tracked objects
 
 ## COSA_CV_kinematic_analysis
 This function calculates and saves the kinematic data of all participants in one place. You can use a loop to analyze the kinematics of the participants' chopstick operation skill.
-
